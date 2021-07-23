@@ -6,18 +6,18 @@
 - 🌱 Atualmente estou focado em estudos sobre manipulação de dados e matemática aplicada
 - 👯 Estou aperfeiçoando minhas linguagens e montando meus primeiros repositórios
 
-### Spotify Playing 🎧
+### Tocando no Spotify 🎧
 
-[<img src="https://matheus-luz.vercel.app/api/spotify-playing" alt="D4T4TR4CK3R Spotify Playing" width="350" />](https://open.spotify.com/user/gamerkingadm)
+[![Spotify](https://novatorem-rho.vercel.app/api/spotify)](https://open.spotify.com/user/gamerkingadm)
 
-### Connect with me:
+### Conecte-se comigo!
 
 [<img align="left" alt="D4T4TR4CK3R | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="D4T4TR4CK3R | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
-### Languages and Tools:
+### Linguagens e Ferramentas:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -31,6 +31,12 @@
 
 <br />
 <br />
+
+
+  <summary>:zap: Github Stats</stats>
+  
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D4T4TR4CK3R)](https://github.com/D4T4TR4CK3R/github-readme-stats)
+
 
 
 ---
