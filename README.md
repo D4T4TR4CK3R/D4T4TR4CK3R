@@ -8,7 +8,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-D4T4TR4CK3R.vercel.app/api/spotify-playing" alt="D4T4TR4CK3R Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://matheus-luz.vercel.app/api/spotify-playing" alt="D4T4TR4CK3R Spotify Playing" width="350" />](https://open.spotify.com/user/gamerkingadm)
 
 ### Connect with me:
 
