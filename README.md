@@ -3,7 +3,7 @@
 
 ## Sou estudante, tester e aficionado em dados!!
 
-- 🌱 Atualmente estou focado em estudos sobre manipulação de dados e matemática aplicada
+- 🌱 Atualmente estou focado em estudos sobre manipulação de dados, probabilidade e estatística
 - 👯 Estou aperfeiçoando minhas linguagens e montando meus primeiros repositórios
 
 ### Tocando no Spotify 🎧
