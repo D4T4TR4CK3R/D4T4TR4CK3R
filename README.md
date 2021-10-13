@@ -1,10 +1,10 @@
 ### Olá, me chamo Matheus - aka [D4T4TR4CK3R] 👋
 
 
-## Sou estudante, tester e aficionado em dados!!
+## Sou estudante e tester!!
 
-- 🌱 Atualmente estou focado em estudos sobre manipulação de dados, probabilidade e estatística
-- 👯 Estou aperfeiçoando minhas linguagens e montando meus primeiros repositórios
+## Seja Bem Vindo!
+
 
 ### Tocando no Spotify 🎧
 
