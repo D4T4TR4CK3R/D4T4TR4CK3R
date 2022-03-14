@@ -1,4 +1,4 @@
-### Olá, me chamo Matheus - aka [D4T4TR4CK3R] 👋
+### Olá, me chamo Matheus 👋
 
 
 ## Sou estudante e tester!!
