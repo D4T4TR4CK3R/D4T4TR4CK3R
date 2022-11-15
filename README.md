@@ -1,7 +1,7 @@
 ### Olá, me chamo Matheus 👋
 
 
-## Sou estudante e tester!!
+## Sou estudante e dev!!
 
 ## Seja Bem Vindo!
 
